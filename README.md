@@ -7,6 +7,7 @@ This project aims to perform sentiment analysis on Kindle reviews, predicting th
 
 Key Features : 
 
+
 Sentiment Analysis: Analyze customer reviews to predict the sentiment based on the review content.
 
 Gaussian Naive Bayes: A supervised learning algorithm for classification tasks, applied here to predict the review rating.
@@ -17,6 +18,7 @@ Data: Uses a dataset of Kindle reviews with review text and corresponding rating
 
 
 Technologies Used : 
+
 
 Python: Main programming language.
 
